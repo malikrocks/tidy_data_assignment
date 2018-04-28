@@ -1,6 +1,6 @@
-#This repo contains files for JHU course assignemnt on getting and cleaning data
+# This repo contains files for JHU course assignemnt on getting and cleaning data
 
-##File Descriptions
+## File Descriptions
 
 There are two files in this repo:
 
