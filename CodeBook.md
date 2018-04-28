@@ -1,6 +1,6 @@
-## UCI Human Activity Recognition Tidy Dataset with Mean and Standard Deviation for each Subject and Activty
+# UCI Human Activity Recognition Tidy Dataset with Mean and Standard Deviation for each Subject and Activty
 
-###The Data
+##The Data
 
 This script works on the data from UC Irvine's Human Activity Recognition Using Smartphones Data Set. The data represent data 
 collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
@@ -11,7 +11,7 @@ Source data can be found at the below link"
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-#The Script
+##The Script
 
 This repository contains a script called run_analysis.R
 
@@ -22,7 +22,7 @@ Two packages are required to run the script:
     dplyr
     reshape2
 
-#Data processing steps
+##Data processing steps
 
 First step is to load the required packages.
 
